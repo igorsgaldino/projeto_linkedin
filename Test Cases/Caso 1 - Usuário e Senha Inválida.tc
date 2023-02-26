@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso 1 - Usuário e Senha Inválida</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8953f814-ffa2-473e-a31a-123ebd4b9822</testCaseGuid>
+</TestCaseEntity>
