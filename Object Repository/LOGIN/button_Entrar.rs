@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Entrar</name>
+   <name>button_entrar</name>
    <tag></tag>
    <elementGuidId>ebe8aad2-0cc4-4354-9b31-731384178c89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.sign-in-form__submit-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sign-in-form__submit-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
