@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mensagem_informe_sua_senha</name>
+   <tag></tag>
+   <elementGuidId>c33871bb-5606-420b-b833-e291e259a438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.alert-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/section/div/div/form/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6e3e6c4f-e807-4972-80b4-c57ef6f9ccc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-content</value>
+      <webElementGuid>74aa3239-bff6-468c-93bf-1f45d1d37c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insira sua senha.</value>
+      <webElementGuid>a4c5dd43-4122-4e26-b3a8-8464cf2a6a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;section min-h-[560px] flex-nowrap pt-[40px] babybear:flex-col babybear:min-h-[0] babybear:px-mobile-container-padding babybear:pt-[24px]&quot;]/div[@class=&quot;self-start relative flex-shrink-0 w-[55%] pr-[42px] babybear:w-full babybear:pr-[0px]&quot;]/div[@class=&quot;sign-in-form-container&quot;]/form[@class=&quot;sign-in-form hero-cta-form&quot;]/div[@class=&quot;alert&quot;]/div[@class=&quot;wrapper&quot;]/p[@class=&quot;alert-content&quot;]</value>
+      <webElementGuid>72ff7ffb-d518-4cc3-a87d-d038131357ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/section/div/div/form/div/div/p</value>
+      <webElementGuid>136e039b-aba6-46ea-8e0d-5ad1fca360e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conheça sua comunidade profissional'])[1]/following::p[1]</value>
+      <webElementGuid>6daa403d-00b2-4a0e-acca-35beb24b9d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::p[1]</value>
+      <webElementGuid>8167c147-0d73-4c9d-9f95-67693b7b3202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail ou número de telefone'])[1]/preceding::p[1]</value>
+      <webElementGuid>a84c8b34-fae6-49ed-acd2-9fbae8741756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senha'])[1]/preceding::p[1]</value>
+      <webElementGuid>5c7757f0-61b3-4311-9187-9c3c21497c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Insira sua senha.']/parent::*</value>
+      <webElementGuid>20b4d358-ab81-483c-93d5-2c629fcdf11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8f71dd62-88aa-4225-b68e-896fbf1bdd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Insira sua senha.' or . = 'Insira sua senha.')]</value>
+      <webElementGuid>55caaa2f-f53a-4c5d-908e-e7e942eacd21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
