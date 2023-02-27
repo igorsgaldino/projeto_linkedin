@@ -29,7 +29,7 @@ WebUI.click(findTestObject('LOGIN/input_senha'))
 
 WebUI.setText(findTestObject('LOGIN/input_senha'), 'senhainvalida12345')
 
-WebUI.mouseOver(findTestObject('LOGIN/button_Entrar'))
+WebUI.mouseOver(findTestObject('LOGIN/button_entrar'))
 
-WebUI.click(findTestObject('LOGIN/button_Entrar'))
+WebUI.click(findTestObject('LOGIN/button_entrar'))
 
