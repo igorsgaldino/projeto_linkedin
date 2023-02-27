@@ -33,3 +33,9 @@ WebUI.mouseOver(findTestObject('LOGIN/button_entrar'))
 
 WebUI.click(findTestObject('LOGIN/button_entrar'))
 
+WebUI.verifyElementPresent(findTestObject('LOGIN/mensagem_senha_invalida'), 0)
+
+WebUI.verifyTextPresent('Senha incorreta. Esqueceu a senha?', true)
+
+WebUI.closeBrowser()
+
