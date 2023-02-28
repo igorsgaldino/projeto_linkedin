@@ -13,11 +13,11 @@ Iremos simular algumas navegações em cima dos módulos:</p>
 <li class="has-line-data" data-line-start="14" data-line-end="15"><code>Minha Rede</code></li>
 </ul>
 <p class="has-line-data" data-line-start="17" data-line-end="19"><strong>Relatórios</strong><br>
-Após a execução dos casos de testes, a própria ferramenta (Katalon Studio) se encarrega de gerar relatórios de forma automatiza, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução. <em>Exemplo:</em></p>
-<pre><code class="has-line-data" data-line-start="21" data-line-end="27" class="language-diff"><span class="hljs-addition">+ Casos de testes que passaram (Passed)</span>
-<span class="hljs-deletion">- Casos de testes que falharam (Failed)</span>
-<span class="hljs-change">! Casos de testes interrompidos durante a sua execução (Incomplete)</span>
-# Casos de testes que foram pulados (Skipped)
-@@ Logs de erro @@
+Após a execução dos casos de testes, a própria ferramenta (Katalon Studio) se encarrega de gerar relatórios de forma automatica, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução. <em>Exemplo:</em></p>
+<pre><code class="has-line-data" data-line-start="21" data-line-end="27" class="language-diff">Casos de testes que passaram (Passed)
+Casos de testes que falharam (Failed)
+Casos de testes interrompidos durante a sua execução (Incomplete)
+Casos de testes que foram pulados (Skipped)
+Logs de erro
 </code></pre>
 <hr>
