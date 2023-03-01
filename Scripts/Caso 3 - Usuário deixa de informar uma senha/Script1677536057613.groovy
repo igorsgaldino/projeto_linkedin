@@ -33,7 +33,7 @@ WebUI.mouseOver(findTestObject('LOGIN/button_entrar'))
 
 WebUI.click(findTestObject('LOGIN/button_entrar'))
 
-WebUI.verifyElementPresent(findTestObject('LOGIN/mensagem_informe_sua_senha'), 0)
+WebUI.verifyElementVisible(findTestObject('LOGIN/mensagem_informe_sua_senha'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyTextPresent('Insira sua senha.', true)
 

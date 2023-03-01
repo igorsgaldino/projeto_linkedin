@@ -33,7 +33,7 @@ WebUI.mouseOver(findTestObject('LOGIN/button_entrar'))
 
 WebUI.click(findTestObject('LOGIN/button_entrar'))
 
-WebUI.verifyElementPresent(findTestObject('LOGIN/mensagem_informe_seu_email'), 0)
+WebUI.verifyElementVisible(findTestObject('LOGIN/mensagem_informe_seu_email'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyTextPresent('Insira seu e-mail ou número de celular.', true)
 
