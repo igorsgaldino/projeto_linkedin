@@ -21,19 +21,19 @@ WebUI.openBrowser('https://www.linkedin.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('LOGIN/input_email'))
+WebUI.click(findTestObject('Login/input_email'))
 
-WebUI.setText(findTestObject('LOGIN/input_email'), 'emailinvalido@gmail.com')
+WebUI.setText(findTestObject('Login/input_email'), 'email@gmail.com')
 
-WebUI.click(findTestObject('LOGIN/input_senha'))
+WebUI.click(findTestObject('Login/input_senha'))
 
-WebUI.setText(findTestObject('LOGIN/input_senha'), 'senhainvalida12345')
+WebUI.setText(findTestObject('Login/input_senha'), 'senhainvalida12345')
 
-WebUI.mouseOver(findTestObject('LOGIN/button_entrar'))
+WebUI.mouseOver(findTestObject('Login/button_entrar'))
 
-WebUI.click(findTestObject('LOGIN/button_entrar'))
+WebUI.click(findTestObject('Login/button_entrar'))
 
-WebUI.verifyElementPresent(findTestObject('LOGIN/mensagem_senha_invalida'), 0)
+WebUI.verifyElementVisible(findTestObject('Login/mensagem_senha_invalida'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyTextPresent('Senha incorreta. Esqueceu a senha?', true)
 
