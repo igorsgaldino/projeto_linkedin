@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Caso 2 - Usuário tenta informar um e-mail inválido</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cfcc68cf-b6ef-4a00-82d8-e37e662d323b</testCaseGuid>
-</TestCaseEntity>

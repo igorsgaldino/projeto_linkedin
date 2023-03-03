@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_editar_sobre</name>
+   <tag></tag>
+   <elementGuidId>b4be1949-335b-4ae8-97e5-1ad5294b452c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='ember498']/div[2]/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1dccc094-dbad-4350-a4d5-7860cc8588d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+      inline-flex justify-center align-self-flex-start
+      
+      </value>
+      <webElementGuid>2d6ad825-771e-4f72-b7ed-60dded8f519e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>4fea3eb3-4ec6-46ff-86da-75c79094d6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.linkedin.com/in/jos%C3%A9-silva-82b712268/add-edit/SUMMARY/?profileFormEntryPoint=PROFILE_SECTION&amp;trackingId=6WKdJ1djRW2xxnrpu%2FII+g%3D%3D</value>
+      <webElementGuid>87089c89-97cc-4257-93c5-314b1b971448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ember498&quot;)/div[@class=&quot;pvs-header__container&quot;]/div[@class=&quot;pvs-header__top-container--no-stack&quot;]/div[@class=&quot;pvs-header__right-container&quot;]/div[1]/a[@class=&quot;optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+      inline-flex justify-center align-self-flex-start&quot;]</value>
+      <webElementGuid>796cefb7-e968-4750-bacd-37787c73a988</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='ember498']/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>4f1e2916-8989-4bf6-8c68-ce34d1e5efbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sobre'])[2]/following::a[1]</value>
+      <webElementGuid>11a7d01e-5ad5-454e-82e5-250dc19cd985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Em construção'])[2]/preceding::a[1]</value>
+      <webElementGuid>14e36765-edfc-403d-a5e0-207275b96873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atividades'])[2]/preceding::a[1]</value>
+      <webElementGuid>cd0de10a-f269-44c2-b8e4-637a453b7df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.linkedin.com/in/jos%C3%A9-silva-82b712268/add-edit/SUMMARY/?profileFormEntryPoint=PROFILE_SECTION&amp;trackingId=6WKdJ1djRW2xxnrpu%2FII+g%3D%3D')]</value>
+      <webElementGuid>d993b96f-2bc8-4bd2-8854-b35ceb4b080c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a</value>
+      <webElementGuid>b876247e-0007-4a21-9730-aaea32dd3b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.linkedin.com/in/jos%C3%A9-silva-82b712268/add-edit/SUMMARY/?profileFormEntryPoint=PROFILE_SECTION&amp;trackingId=6WKdJ1djRW2xxnrpu%2FII+g%3D%3D']</value>
+      <webElementGuid>e4400bc7-b9ad-47b8-b109-da9f26d06525</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

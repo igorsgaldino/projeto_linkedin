@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Caso 3 - Usuário deixa de informar uma senha</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>7d8fa23e-c77c-4287-95e4-b1974e6b1be9</testCaseGuid>
-</TestCaseEntity>

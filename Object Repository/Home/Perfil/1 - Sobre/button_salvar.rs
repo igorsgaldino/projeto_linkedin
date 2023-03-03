@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_salvar</name>
+   <tag></tag>
+   <elementGuidId>933e4045-7092-4466-a696-14b4fb7492a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ember590']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ember590</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9cadf66-4b06-4a12-be93-4f640d1298a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ember590</value>
+      <webElementGuid>77df7c87-4328-47fb-8dde-10cd18a92f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>artdeco-button artdeco-button--2 artdeco-button--primary ember-view</value>
+      <webElementGuid>64ce70a1-eaa4-40c0-852f-984b832bfa24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8867bd6-d106-4eb0-875a-fdaa8de39564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+    Salvar
+</value>
+      <webElementGuid>d54d00bd-be96-4741-b6a7-41550747874b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ember590&quot;)</value>
+      <webElementGuid>71aaa0a6-a493-4598-80dd-ba820d590de5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ember590']</value>
+      <webElementGuid>217faa1e-06f5-4709-bc41-f3ffed3856f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ember589']/button</value>
+      <webElementGuid>34584f1f-e955-408f-9283-e597ecfe853a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máximo de 2600 caracteres.'])[1]/following::button[1]</value>
+      <webElementGuid>04189585-1da0-4229-bdb5-76204674e6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Término do conteúdo do diálogo.'])[1]/preceding::button[1]</value>
+      <webElementGuid>d583e498-a98c-4f3d-8c7f-9ed9a34768d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>73e89163-ec97-4dba-a965-3ff5f1b4d614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ember590' and @type = 'button' and (text() = '
+
+    Salvar
+' or . = '
+
+    Salvar
+')]</value>
+      <webElementGuid>a87bca5c-8c8d-4286-a768-15cac9e2eda0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
