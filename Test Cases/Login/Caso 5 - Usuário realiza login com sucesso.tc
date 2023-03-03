@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso 5 - Usuário realiza login com sucesso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ee0fe34-6db6-46f8-b8f4-78c7ff94d87f</testCaseGuid>
+</TestCaseEntity>
